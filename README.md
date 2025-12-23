@@ -44,15 +44,6 @@ When I'm not coding, you'll probably find me exploring new games, tinkering with
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akila-Widuruwan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Widuruwan&layout=compact&theme=radical&langs_count=8" />
-</p>
-
----
-
 ## 🏗️ Featured Projects
 
 ### **Akizzz-Panel** - VPN Traffic Monitoring Dashboard
